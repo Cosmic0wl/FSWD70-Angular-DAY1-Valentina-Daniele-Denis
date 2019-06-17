@@ -1,0 +1,23 @@
+.background-winter {
+	background-image: url('https://cdn.pixabay.com/photo/2016/06/10/22/25/ortler-1449018_960_720.jpg');
+	color: #FFFFFF;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+
+.background-blue {
+	background-color: #093F5E;
+	color: #FFFFFF;
+}
+
+.line {
+	width: 10%;
+	border: solid 3px red;
+}
+
+.round {
+	border-radius: 100%;
+	border: 1px solid white;
+	padding: 20px;
+}
